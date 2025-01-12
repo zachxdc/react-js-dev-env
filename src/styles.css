@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.icon {
+  display: inline-block;
+  width: 16px;
+  text-align: center;
+}
+
+li {
+  margin: 4px 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
